@@ -22,3 +22,5 @@ PuzzleSolver.java         ist der Service welcher von dem Server angeboten wird.
                           Ein Problem meiner Lösung ist, dass ich es nicht geschafft habe, die Lösung als Liste aller möglichen Lösungen zu erstellen. Wie in Aufgabe 1,                           die Lösung wird entweder nacheinander in der Console ausgegeben oder in einer .txt-Datei ergänzt. Mir ist es nicht gelungen alle Lösungen                                 zusammen zu fassen. Hätte ich dies geschafft könnte ich die Lösung an den Client in der response zurück schicken. Hinzu kommt das Problem, dass                           der service keine Console hat, somit ist es nicht möglich die Lösung zu sehen.
                           
 gRPC_Client.java          ist der Client, der ein Puzzle generiert und dieses an den Server schickt.
+
+-added ValidPuzzleGenerator.java welcher nur lösbare Rätsel generiert.
