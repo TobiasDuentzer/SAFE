@@ -24,3 +24,6 @@ PuzzleSolver.java         ist der Service welcher von dem Server angeboten wird.
 gRPC_Client.java          ist der Client, der ein Puzzle generiert und dieses an den Server schickt.
 
 -added ValidPuzzleGenerator.java welcher nur lösbare Rätsel generiert.
+
+Vollstaendige Projekte:
+https://drive.google.com/drive/folders/1H09yUW_e9gVTwloPeJi789w5TrNjXDRH?usp=sharing
